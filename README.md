@@ -23,7 +23,7 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 </p>
 <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/source.gif">
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCSGuimaraes&theme=white)
+
 
 
 
