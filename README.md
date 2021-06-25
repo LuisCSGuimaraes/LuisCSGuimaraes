@@ -23,8 +23,4 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 </p>
 <img src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/source.gif" width="50%">
 
-
-
-
-
-
+`if Data == True:Science`
