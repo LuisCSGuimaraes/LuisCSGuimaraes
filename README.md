@@ -21,5 +21,5 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
   <img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" />
   <img alt="Github" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github" />
 </p>
-<img src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/source.gif" width="50%">
+<img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"  width="50%">
 
