@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/LuisCSGuimaraes/FraudesEmCartoesCreditoML/main/Images/Banner.png">
+
 ## Olá, eu sou o Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
