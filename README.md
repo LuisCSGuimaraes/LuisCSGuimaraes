@@ -18,11 +18,12 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 - 🥾 Trilhando o [Data Scientist Pathway](https://academy.databricks.com/learning-paths) pela Databricks
 
 <h3>Ferramentas e linguagens</h3>
-<p><img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter notebook-grey?style=for-the-badge&logo=Jupyter" />
-  <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual Studio Code-blue?style=for-the-badge&logo=visualstudio" />
-  <img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" />
-  <img alt="Github" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github" />
+<p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="VisualStudioCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="9%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="7%" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"  width="50%">
 
