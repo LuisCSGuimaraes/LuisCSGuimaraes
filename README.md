@@ -11,7 +11,7 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 </p>
 
 - 💼 Trabalhando atualmente no escritório de advocacia [Gaia Silva Gaede](https://gsga.com.br/).
-- 🎓 Graduando em Gestão de TI pela [UNESA](https://estacio.br/).
+- 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
 - 🐧 Curso de especialização em Linux pela [ADV Informática](https://cursoadv.com.br/web/).
 - 🤖 Curso de Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor Andrew Ng.
 - 📚 Curso de Data Science pela [Sigmoidal](https://sigmoidal.ai/) em andamento.
