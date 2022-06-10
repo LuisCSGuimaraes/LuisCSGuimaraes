@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/LuisCSGuimaraes/LuisCSGuimaraes/main/Banner.png">
 </p>
 
-## Olá, eu sou o Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá, eu sou o Luis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
 
 
 
