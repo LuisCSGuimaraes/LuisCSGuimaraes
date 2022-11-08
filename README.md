@@ -14,16 +14,23 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 - 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
 - 🐧 Curso de especialização em Linux pela [ADV Informática](https://cursoadv.com.br/web/).
 - 🤖 Curso de Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor Andrew Ng.
-- 📚 Curso de Data Science pela [Sigmoidal](https://sigmoidal.ai/) em andamento.
+- 📚 Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
+- 🎲 Bigdata e Analytics pela [FIAP](https://www.fiap.com.br/).
+- 🦾 Cloud Fullstack Bootcamp na [DIO.me](https://www.dio.me/) em andamento.
 - 🥾 Trilhando o [Data Scientist Pathway](https://academy.databricks.com/learning-paths) pela Databricks
 
 <h3>Ferramentas e linguagens</h3>
 <p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="8%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="VisualStudioCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="7%" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"  width="50%">
+
+[![Luis Guimarães's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCSGuimaraes&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCSGuimaraes&)](https://github.com/anuraghazra/github-readme-stats)
 
