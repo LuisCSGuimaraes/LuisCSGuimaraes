@@ -12,8 +12,8 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 
 - 💼 Trabalhando atualmente no escritório de advocacia [Gaia Silva Gaede](https://gsga.com.br/).
 - 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
-- 🐧 Curso de especialização em Linux pela [ADV Informática](https://cursoadv.com.br/web/).
-- 🤖 Curso de Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor Andrew Ng.
+- 🐧 Linux System Administrator + Linux Network Administrator pela [ADV Informática](https://cursoadv.com.br/web/).
+- 🤖 Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor Andrew Ng.
 - 📚 Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
 - 🎲 Bigdata e Analytics pela [FIAP](https://www.fiap.com.br/).
 - 🦾 Cloud Fullstack Bootcamp na [DIO.me](https://www.dio.me/) em andamento.
@@ -32,5 +32,5 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"  width="50%">
 
 [![Luis Guimarães's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCSGuimaraes&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCSGuimaraes&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCSGuimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
