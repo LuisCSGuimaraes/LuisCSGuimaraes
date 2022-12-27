@@ -22,8 +22,8 @@ Sou Analista de TI com 8 anos de experiencia, trabalhando principalmente com inf
 <h3>Ferramentas e linguagens</h3>
 <p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="8%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="VisualStudioCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
