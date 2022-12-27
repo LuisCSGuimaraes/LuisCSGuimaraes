@@ -13,7 +13,7 @@ Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalment
 - 💼 Trabalhando atualmente no escritório de advocacia [Gaia Silva Gaede](https://gsga.com.br/).
 - 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
 - 🐧 Linux System Administrator + Linux Network Administrator pela [ADV Informática](https://cursoadv.com.br/web/).
-- 🤖 Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor Andrew Ng.
+- 🤖 Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor [Andrew Ng](https://www.andrewng.org/).
 - 📚 Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
 - 🎲 Bigdata e Analytics pela [FIAP](https://www.fiap.com.br/).
 - 🦾 Cloud Fullstack Bootcamp na [DIO.me](https://www.dio.me/) em andamento.
