@@ -11,7 +11,7 @@ Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalment
 </p>
 
 - 💼 Trabalhando atualmente no escritório de advocacia [Gaia Silva Gaede](https://gsga.com.br/).
-- 👨🏻‍💻 MBA em Data Science & Analytics pela [USP Esalq](https://mbauspesalq.com/).
+- 👨🏻‍💻 MBA em Data Science & Analytics pela [USP Esalq](https://mbauspesalq.com/) em andamento.
 - 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
 - 🤖 Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor [Andrew Ng](https://www.andrewng.org/).
 - 📚 Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
