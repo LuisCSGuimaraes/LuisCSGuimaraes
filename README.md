@@ -7,17 +7,17 @@
 
 <p><a href="mailto:luis.csguimaraes@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="http://luiscsguimaraes.github.io/" target="_blank"><img alt="Pages" src="https://img.shields.io/badge/github%20pages-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/luiscsguimaraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://luis-guimaraes.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalmente com infraestrutura e servidores Windows. Atualmente estou expandindo e aprimorando meus conhecimentos através do estudo de <strong>Ciência de Dados</strong> 🔭 e de desenvolvimento <strong>Full Stack</strong> 📦.
+Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalmente com infraestrutura e servidores Windows. Atualmente estou expandindo e aprimorando meus conhecimentos através do estudo de <strong>Ciência de Dados</strong>.
 </p>
 
 - 💼 Trabalhando atualmente no escritório de advocacia [Gaia Silva Gaede](https://gsga.com.br/).
+- 👨🏻‍💻 MBA em Data Science & Analytics pela [USP Esalq](https://mbauspesalq.com/).
 - 🎓 Graduado em Gestão de TI pela [UNESA](https://estacio.br/).
-- 🐧 Linux System Administrator + Linux Network Administrator pela [ADV Informática](https://cursoadv.com.br/web/).
 - 🤖 Machine Learning pela [Stanford / Coursera](https://www.coursera.org/learn/machine-learning) com o professor [Andrew Ng](https://www.andrewng.org/).
 - 📚 Data Science na Prática pela [Sigmoidal](https://sigmoidal.ai/).
 - 🎲 Bigdata e Analytics pela [FIAP](https://www.fiap.com.br/).
-- 🦾 Cloud Fullstack Bootcamp na [DIO.me](https://www.dio.me/) em andamento.
-- 🥾 Trilhando o [Data Scientist Pathway](https://academy.databricks.com/learning-paths) pela Databricks
+- 🐧 Linux System Administrator + Linux Network Administrator pela [ADV Informática](https://cursoadv.com.br/web/).
+
 
 <h3>Ferramentas e linguagens</h3>
 <p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
