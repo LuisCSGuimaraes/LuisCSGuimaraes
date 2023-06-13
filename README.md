@@ -31,6 +31,5 @@ Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalment
 </p>
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif"  width="50%">
 
-[![Luis Guimarães's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCSGuimaraes&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCSGuimaraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
