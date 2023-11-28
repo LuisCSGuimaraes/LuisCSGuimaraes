@@ -5,7 +5,7 @@
 
 
 
-<p><a href="mailto:luis.csguimaraes@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="http://luiscsguimaraes.github.io/" target="_blank"><img alt="Pages" src="https://img.shields.io/badge/github%20pages-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/luiscsguimaraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://luis-guimaraes.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="mailto:luis.csguimaraes@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="http://luiscsguimaraes.github.io/" target="_blank"><img alt="Pages" src="https://img.shields.io/badge/portf%C3%B3lio-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a> <a href="https://www.linkedin.com/in/luiscsguimaraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://luis-guimaraes.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalmente com infraestrutura e servidores Windows. Atualmente estou expandindo e aprimorando meus conhecimentos através do estudo de <strong>Ciência de Dados</strong>.
 </p>
@@ -21,9 +21,10 @@ Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalment
 
 <h3>Ferramentas e linguagens</h3>
 <p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Tableau" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem-700x394.png" width="10%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="VisualStudioCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
