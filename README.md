@@ -21,7 +21,7 @@ Sou Analista de TI com mais de 10 anos de experiencia, trabalhando principalment
 
 <h3>Ferramentas e linguagens</h3>
 <p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="PowerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Tableau" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem-700x394.png" width="10%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
